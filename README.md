@@ -1,5 +1,5 @@
 # 24_scraping
 
-QuickStatsUSDA.py contains code related to USDA/NASS QuickStats API.
+QuickStatsUSDA.py contains code related to USDA/NASS QuickStats API.\n
 Data : https://quickstats.nass.usda.gov/
 API Doc : https://quickstats.nass.usda.gov/api
